@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/unsolublesugar/electron-hello-world/issues"
   },
-  "homepage": "https://github.com/unsolublesugar/electron-hello-world#readme"
+  "homepage": "https://github.com/unsolublesugar/electron-hello-world#readme",
+  "devDependencies": {
+    "electron-builder": "^22.9.1"
+  }
 }
