@@ -12,10 +12,7 @@
     "lint": "echo \"No linting configured\""
   },
   "keywords": [],
-  "author": {
-    "name": "unsolublesugar",
-    "email": "unsoluble.sugar@gmail.com"
-  },
+  "author": "unsolublesugar <unsoluble.sugar@gmail.com>",
   "license": "MIT",
   "config": {
     "forge": {
@@ -53,6 +50,14 @@
     "@electron-forge/maker-rpm": "^6.0.0-beta.54",
     "@electron-forge/maker-squirrel": "^6.0.0-beta.54",
     "@electron-forge/maker-zip": "^6.0.0-beta.54",
-    "electron": "11.0.2"
-  }
+    "electron": "^11.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unsolublesugar/electron-hello-world.git"
+  },
+  "bugs": {
+    "url": "https://github.com/unsolublesugar/electron-hello-world/issues"
+  },
+  "homepage": "https://github.com/unsolublesugar/electron-hello-world#readme"
 }
